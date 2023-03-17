@@ -1,6 +1,7 @@
 # AME262 Midterm Drum Machine
 ## Structure
-
+- Han_Jionghao: Max project folder (Max 8)
+- README.md
 
 
 ## References
