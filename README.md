@@ -11,4 +11,4 @@
 - https://papoeira.com/en/the-toques-of-mestre-bimba/
 2. Audio files
 - Chopped from https://upload.wikimedia.org/wikipedia/commons/f/fa/Toque-de-angola.ogg
-- https://freesound.org/. Webpages can be traced in file description
+- https://freesound.org/. Detailed sources can be traced in file description
